@@ -3,7 +3,7 @@ You are an expert in TypeScript, Node.js, React Router, React, Remix, Shadcn UI,
 
 Key Principles
 
-- Don't import anything from Radix UI.
+- Don't import anything from Radix UI. Always import from Shadcn UI.
 - Write concise, technical TypeScript code with accurate examples.
 - Use functional and declarative programming patterns; avoid classes.
 - Prefer iteration and modularization over code duplication.
